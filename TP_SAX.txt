@@ -1,0 +1,51 @@
+Objectif de la mini application à réaliser
+------------------------------------------
+
+L'application récupère un flux RSS via HTTP (dans l'exemple, celui du journal Le
+Monde) et affiche sur la sortie standard la liste des articles dont le titre
+comprend un mot clé donné. Quand un article du flux correspondant au critère de
+recherche est trouvé, le programme affiche sur la sortie standard (avec des
+simples System.out.println) :
+  - le titre de l'article ;
+  - le lien vers celui-ci ;
+  - et sa date de publication.
+
+Ce travail est organisé autour du format RSS (Really Simple Syndication).
+Contrairement à la partie 4 du fil rouge où il vous sera demandé de produire du
+contenu dans ce format, il est demandé ici de récupérer des informations et de
+les afficher : le programme est ici consommateur.
+
+Organisation du travail
+-----------------------
+
+1 - Le format RSS
+
+La première étape consiste à comprendre la structure du format RSS. Vous
+trouverez dans le document du fil rouge à la page 50 des informations sur ce
+format. Le fichier "Format_RSS.pdf" présent à la racine du projet est la
+représentation graphique arborescente de ce format (schéma produit avec Oxygen
+XML Editor).
+
+2 - Développement de l'application
+
+Le code de cette mini application est organisé dans une seule classe, SaxRSS.
+Cette classe contient une classe interne, RSSHandler.
+
+L'URL du flux RSS à examiner et la valeur du filtre sont présents dans les
+attributs de la classe RSSHandler. Le flux proposé est celui du journal Le Monde
+mais tout autre flux (au format RSS) fera l'affaire.
+
+La méthode qui lance l'analyse SAX du flux RSS est la méthode performDemo() :
+  - elle instancie un parser SAX (SAXParser) ;
+  - elle lance l'analyse du flux (appel de la méthode parse) en fournissant deux
+    paramètres :
+      * L'URL du flux
+      * Une instance de la classe interne RSSHandler qui code les actions à
+        réaliser lors de l'analyse.
+
+Votre travail consiste à compléter la classe RSSHandler en définissant le
+comportement de l'analyse dans les méthodes nécessaires :
+  - startDocument()
+  - endDocument()
+  - startElement(...)
+  - Etc.

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='http://rss.lemonde.fr/xsl/fr/rss.xsl'?>
+
+<rss xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	   xmlns:atom="http://www.w3.org/2005/Atom"
+	   xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+	   xmlns:dc="http://purl.org/dc/elements/1.1/"
+	   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<atom:link href="http://www.lemonde.fr/rss/une.xml" rel="self" type="application/rss+xml" />
+		<title> Le Monde.fr - Actualité à la Une</title>
+		<link>http://www.lemonde.fr/rss/une.xml</link>
+		<description>
+			Le Monde.fr - 1er site d'information. Les articles du journal et toute 
+			l'actualité en continu : International, France, Société, Economie, 
+			Culture, Environnement, Blogs ...
+		</description>
+		<language>en</language>
+		<copyright>Copyright Le Monde.fr</copyright>
+		<pubDate>Tue, 20 Oct 2015 13:34:20 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Oct 2015 13:34:20 GMT</lastBuildDate>
+		<ttl>15</ttl>
+		<image>
+			<title>Le Monde.fr - Actualité à la Une</title>
+			<url>http://www.lemonde.fr/mmpub/img/lgo/lemondefr_rss.gif</url>
+			<link>http://www.lemonde.fr/rss/une.xml</link>
+		</image>
+		
+		<item>
+			<title>Du diesel aux parachutes dorés, voici les amendements au projet de loi de finances</title>
+			<link>http://www.lemonde.fr/les-decodeurs/article/2015/10/20/du-diesel-a-la-taxe-tampon-tour-d-horizon-des-amendements-au-projet-de-loi-de-finances_4793246_4355770.html#xtor=RSS-3208</link>
+			<description>
+				Les députés votent la première partie du projet de loi de finances 2016. 
+				Le texte a été modifié 117 fois, sur 961 propositions.&lt;br 
+				clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a 
+				href="http://rc.feedsportal.com/r/241226269711/u/437/f/3050/c/205/s/4ad2725a/sc/37/rc/1/rc.htm" 
+				rel="nofollow"&gt;&lt;img src="http://rc.feedsportal.com/r/241226269711/u/437/f/3050/c/205/s/4ad2725a/sc/37/rc/1/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://rc.feedsportal.com/r/241226269711/u/437/f/3050/c/205/s/4ad2725a/sc/37/rc/2/rc.htm" rel="nofollow"&gt;&lt;img src="http://rc.feedsportal.com/r/241226269711/u/437/f/3050/c/205/s/4ad2725a/sc/37/rc/2/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://rc.feedsportal.com/r/241226269711/u/437/f/3050/c/205/s/4ad2725a/sc/37/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://rc.feedsportal.com/r/241226269711/u/437/f/3050/c/205/s/4ad2725a/sc/37/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/241226269711/u/437/f/3050/c/205/s/4ad2725a/sc/37/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/241226269711/u/437/f/3050/c/205/s/4ad2725a/sc/37/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/241226269711/u/437/f/3050/c/205/s/4ad2725a/sc/37/a2t.img" border="0"/&gt;&lt;img width='1' height='1' src='http://rss.lemonde.fr/c/205/f/3050/s/4ad2725a/sc/37/mf.gif' border='0'/&gt;
+			</description>
+			<enclosure url="http://s2.lemde.fr/image/2015/10/20/644x322/4793250_3_828b_l-assemblee-nationale_d9d94be52bdea91f21c62a311205fa2a.jpg" length="79880" type="image/jpeg" />
+			<pubDate>Tue, 20 Oct 2015 12:56:37 GMT</pubDate>
+			<guid isPermaLink="false">http://www.lemonde.fr/tiny/4793246/</guid>
+		</item>
+		
+		<item>
+			<title>Malgré l’incertitude sur Platini, l’élection à la FIFA maintenue au 26 février</title>
+			<link>http://www.lemonde.fr/football/article/2015/10/20/fifa-malgre-l-incertitude-sur-platini-l-election-aura-bien-lieu-le-26-fevrier_4793235_1616938.html#xtor=RSS-3208</link>
+			<description>
+				Le comité exécutif, réuni mardi, a « mis de côté » la candidature du 
+				Français tant que sa suspension est en vigueur.&lt;br 
+				clear='all'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a 
+				href="http://rc.feedsportal.com/r/241226201882/u/437/f/3050/c/205/s/4ad23667/sc/13/rc/1/rc.htm" 
+				rel="nofollow"&gt;&lt;img src="http://rc.feedsportal.com/r/241226201882/u/437/f/3050/c/205/s/4ad23667/sc/13/rc/1/rc.img" 
+				border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a 
+				href="http://rc.feedsportal.com/r/241226201882/u/437/f/3050/c/205/s/4ad23667/sc/13/rc/2/rc.htm" 
+				rel="nofollow"&gt;&lt;img 
+				src="http://rc.feedsportal.com/r/241226201882/u/437/f/3050/c/205/s/4ad23667/sc/13/rc/2/rc.img" 
+				border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://rc.feedsportal.com/r/241226201882/u/437/f/3050/c/205/s/4ad23667/sc/13/rc/3/rc.htm" rel="nofollow"&gt;&lt;img src="http://rc.feedsportal.com/r/241226201882/u/437/f/3050/c/205/s/4ad23667/sc/13/rc/3/rc.img" border="0"/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/241226201882/u/437/f/3050/c/205/s/4ad23667/sc/13/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/241226201882/u/437/f/3050/c/205/s/4ad23667/sc/13/a2.img" border="0"/&gt;&lt;/a&gt;&lt;img width="1" height="1" src="http://pi.feedsportal.com/r/241226201882/u/437/f/3050/c/205/s/4ad23667/sc/13/a2t.img" border="0"/&gt;&lt;img width='1' height='1' src='http://rss.lemonde.fr/c/205/f/3050/s/4ad23667/sc/13/mf.gif' border='0'/&gt;</description>
+			<enclosure url="http://s1.lemde.fr/image/2015/10/20/644x322/4793249_3_d1b4_michel-platini-avant-l-ouverture-du-61e_571b2482d1178d18bd5fc1a40447207b.jpg" length="26425" type="image/jpeg" />
+			<pubDate>
+			Tue, 20 Oct 2015 12:40:44 GMT</pubDate>
+			<guid isPermaLink="false">
+			http://www.lemonde.fr/tiny/4793235/</guid>
+		</item>
+		
+		<!--
+			Chaque information est ensuite présente au sein d'un élément "item".
+		-->
+
+	</channel>
+</rss>
+
